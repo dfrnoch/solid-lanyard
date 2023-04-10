@@ -1,6 +1,6 @@
 {
-  "name": "solid-lanyard",
-  "version": "0.0.1",
+  "name": "lanyard-solid",
+  "version": "1.0.0",
   "author": "lnxcz",
   "repository": {
     "type": "git",
@@ -50,13 +50,9 @@
   },
   "contributors": [],
   "description": "Primitive that makes it easy to implement the Lanyard API into your Solid app",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "homepage": "https://github.com/lnxcz/solid-lanyard#readme",
-  "keywords": [
-    "solid"
-  ],
+  "keywords": ["solid"],
   "license": "MIT",
   "packageManager": "pnpm@8.2.0",
   "private": false,
